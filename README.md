@@ -17,8 +17,8 @@ Access the Django admin interface at http://localhost:8000/admin/.
 
 The following API endpoints are available:
 
-/api/tasks/ - GET, POST: Retrieve a list of tasks or create a new task.
-/api/categories/ - GET, POST: Retrieve a list of categories or create a new category.
+/tasks/ - GET, POST: Retrieve a list of tasks or create a new task.
+/categories/ - GET, POST: Retrieve a list of categories or create a new category.
 
 
 
