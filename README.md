@@ -22,7 +22,7 @@ The following API endpoints are available:
 
 
 
-To update or delete file you need to be permissioned as admin(login:admin, password:mypassowrd).
+To update or delete a file, you need to be logged in as an administrator with the following credentials: username 'admin' and password 'mypassword'.
 
 To create a new task:
 
